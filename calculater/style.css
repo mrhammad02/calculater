@@ -1,0 +1,23 @@
+.calculator{
+    height: 300px;
+    width: 300px;
+    background-color: darkgray;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.calculator button{
+    width: 50px;
+    height: 30px;
+    border: none;
+    margin-top: 5px;
+}
+.calculator button:hover{
+    background-color: black;
+    color: white;
+}
+.inp{
+    padding: 30px;
+    border: none;
+    
+}
